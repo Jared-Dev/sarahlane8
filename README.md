@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! Welcome to my profile! I'm Sarah!
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/sarah-lane-6bb319119/)!
 
 <!--
 **sarahlane8/sarahlane8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
