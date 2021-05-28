@@ -1,8 +1,12 @@
 ### Hi! Welcome to my profile! I'm Sarah!
 
+I'm a Denver, CO based Front End Software Developer, with a focus on UI/UX.
+
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sarah-lane-6bb319119/)!
 
-<!--
+ 🌱 I’m currently learning TypeScript and Redux
+ 
+ 
 **sarahlane8/sarahlane8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
