@@ -4,6 +4,8 @@ I'm a Denver, CO based Front End Software Developer, with a focus on UI/UX.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sarah-lane-6bb319119/)!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahlane8)](https://github.com/anuraghazra/github-readme-stats)
+
 Technologies: 
 <p>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
