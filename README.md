@@ -18,6 +18,10 @@ Technologies:
   
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   
+  <img alt="TypeScript" src="https://img.shields.io/badge/-typescript-302f2f?logo=typescript&logoColor=3178C6&style=for-the-badge"/>
+  
+  <img alt="Redux" src="https://img.shields.io/badge/-redux-211f20?logo=redux&logoColor=764ABC&style=for-the-badge"/>
+  
   <img alt="Cypress.io" src="https://camo.githubusercontent.com/bd9c528263673db09f67bcf3445ba8e5512cfb6829e966a31ef7a378933b231a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732e696f2d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d637970726573732e696f266c6f676f436f6c6f723d7768697465"/>
 </p>
 
