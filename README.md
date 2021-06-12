@@ -34,5 +34,5 @@ Technologies:
 [![Sarah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlane8&langs_count=5&theme=vue&layout=compact)](https://github.com/sarahlane8/github-readme-stats)
 
  
-🌱 I’m currently learning TypeScript and Redux
+🌱 I’m currently learning Redux
  
