@@ -1,4 +1,4 @@
-### Hi! Welcome to my profile! I'm Sarah (she/her)!
+### Hi! I'm Sarah (she/her)!
 
 I'm a Denver, CO based Front End Software Developer, with a focus on UI/UX.
 
