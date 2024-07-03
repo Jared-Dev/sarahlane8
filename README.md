@@ -1,6 +1,6 @@
 ### Hi! I'm Sarah (she/her)!
 
-I'm a Denver, CO based Front End Software Developer, with a focus on UI/UX.
+I'm a Bend, OR based Software Developer, with a focus on UI/UX.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sarah-lane-6bb319119/)!
 
@@ -33,6 +33,5 @@ Technologies:
 
 [![Sarah's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahlane8&langs_count=5&theme=vue&layout=compact)](https://github.com/sarahlane8/github-readme-stats)
 
- 
-🌱 I’m currently learning Redux
+
  
