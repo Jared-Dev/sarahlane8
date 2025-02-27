@@ -1,6 +1,6 @@
 ### Hi! I'm Sarah (she/her)!
 
-I'm a Bend, OR based Software Developer, with a focus on UI/UX.
+I'm a Denver, CO based Software Developer, with a focus on UI/UX.
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/sarah-lane-6bb319119/)!
 
